@@ -2,13 +2,17 @@
 
 <br>
 
-<center>🏤광주소프트웨어마이스터고등학교에 재학중인 학생입니다<center>
-<center>저는 🔒사이버 보안 전문가가 되기 위해 노력하고 있습니다🙂<center>
+<center> 🏤광주소프트웨어마이스터고등학교에 재학중인 학생입니다 <center>
+<center> 저는 🔒사이버 보안 전문가가 되기 위해 노력하고 있습니다🙂 <center>
+
 <br>
+
 <br>
+
 <br>
 
 <center>👇전 이것들에 관심을 가지고 공부하고 있습니다👇<center>
+
 <br>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </a>
