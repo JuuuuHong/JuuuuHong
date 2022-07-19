@@ -15,20 +15,20 @@
 
 <br>
 
-<p align ="center" display ="inline-block">
+<div align ="center" display ="inline-block">
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </a>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/> </a> 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> </a>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> </a>
-<img src="https://img.shields.io/badge/HTML5-E34F6?style=flat-square&logo=HTML5&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F6?style=flat-square&logo=HTML5&logoColor=white"/>
 
-</p>
+</div>
 
 <br>
 
-<p align = "center" display="inline-block">
+<div align = "center" display="inline-block">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuuuHong&&show_icons=true&theme=dark)
 
-</p>
+</div>
