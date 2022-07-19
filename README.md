@@ -15,7 +15,7 @@
 
 <br>
 
-<p align ="center">
+<p align ="center" display ="inline-block">
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/> </a> 
@@ -27,7 +27,7 @@
 
 <br>
 
-<p align = "center">
+<p align = "center" display="inline-block">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuuuHong&&show_icons=true&theme=dark)
 
