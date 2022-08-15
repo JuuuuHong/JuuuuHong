@@ -27,6 +27,5 @@
 
 <div align = "center" display="inline-block">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuuuHong&&show_icons=true&theme=dark)
 
 </div>
