@@ -1,9 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JuhongPark%20%20&height=225&fontSize=125)
-
 <br>
 
 <p align="center"> 🏤광주소프트웨어마이스터고등학교에 재학중인 학생입니다 </p>
-<p align ="center"> 저는 🔒사이버 보안 전문가가 되기 위해 노력하고 있습니다🙂 </p>
+<p align ="center"> 저는 🔒정보 보안 전문가가 되기 위해 노력하고 있습니다🙂 </p>
 
 <br>
 
